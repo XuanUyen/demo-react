@@ -1,4 +1,4 @@
-import './style.css';
+
 
 function Clock() {
     const data = new Date()
